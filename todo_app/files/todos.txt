@@ -1,3 +1,4 @@
 sleep
 play 
-eat
+chill
+
